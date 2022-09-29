@@ -3,8 +3,11 @@
 
 ### Skills
 - Python
+  - Data Apps with Streamlit
   - Data Munging and Modeling
   - Data Visualization
+    - Matplotlib
+    - Plotly Express
   - Data Science
   - Web Scraping
   - Automation
@@ -12,3 +15,12 @@
     - Custom web applications
     - Experience with deployment on Heroku
   - GUI development with PySimpleGUI
+- Excel
+  - Advanced Excel Skills
+  - Pivot Tables with custom measures written in M
+  - Well versed in Power Query
+    - Ability to set frameworks and data models for single file updates and refreshes
+- Power BI
+  - Custom measures written in DAX
+
+  
