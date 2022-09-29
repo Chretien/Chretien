@@ -5,10 +5,13 @@
 - Python
   - Data Apps with Streamlit
   - Data Munging and Modeling
+    - Pandas
+    - NumPy
   - Data Visualization
     - Matplotlib
     - Plotly Express
   - Data Science
+    - NLP Sentiment Analysis with Vader
   - Web Scraping
   - Automation
   - Flask Web Development
