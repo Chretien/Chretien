@@ -1,5 +1,5 @@
 # Chretien Martinez
-## Finance Analyst, Automation Specialist, Web Developer
+## Python Dev, Finance Analyst, Automation Specialist, Web Developer
 
 ### Skills
 - Python
