@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @Chretien, and programming has always been an ambition of mine!
-- I am currently learning how to leverage Python 🐍 in data analysis.
-- In my previous career, I used Google Sheets on a daily basis to pull insights from data. Python is showing me how much more efficient I could have been.
-- pandas is so much fun to learn and experiment with!
-- Currently enrolled in Dataquest.io's Data Analyst with Python course, and loving every success and failure.
-- When I'm not studying up on my Python, you can find me boxing, swinging my kettlebell, or playing League of Legends.
-- I am a proud husband and father!
+# Chretien Martinez
+## Finance Analyst, Automation Specialist, Web Developer
+
+### Skills
+- Python
+  - Data Munging and Modeling
+  - Data Visualization
+  - Data Science
+  - Web Scraping
+  - Automation
+  - Flask Web Development
+    - Custom web applications
+    - Experience with deployment on Heroku
+  - GUI development with PySimpleGUI
