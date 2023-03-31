@@ -4,7 +4,7 @@
 ### Skills
 - Python
   - Data Apps with Streamlit
-  - Data Munging and Modeling
+  - Data Wrangling and Modeling
     - Pandas
     - NumPy
   - Data Visualization
