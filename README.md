@@ -1,5 +1,5 @@
 # Chretien Martinez
-## Python Dev - Data, Automation, Web Development
+## Data Analysis & Visualization in Python
 
 ### Skills
 - Python
